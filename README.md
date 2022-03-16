@@ -1,8 +1,8 @@
-# Machine-Learning-with-Python
+# Machine Learning with Python
 
 ## ROADMAP
 
-## 1.Linear Regression
+## 1. Linear Regression
 
   ### SIMPLE LINEAR REGRESSION
   
@@ -42,16 +42,91 @@ Differentiate between linear and non-linear regression
  
 Use non-linear regression model in Python
 
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
+## 3. K-Nearest Neighbours (KNN)
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/K-Nearest-neighbors.ipynb
+
+Use K Nearest neighbors to classify data
+
+
+## 4.  Decision Trees 
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/-Decision-Trees-drug.ipynb
+
+
+Develop a classification model using Decision Tree Algorithm
+
+About the dataset
+
+
+Downloading the Data
+
+
+Pre-processing
+
+
+Setting up the Decision Tree
+
+
+Modeling
+
+Prediction
+
+
+Evaluation
+
+
+Visualization
+
+
+## 5. Logistic Regression
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Logistic-Reg-churn.ipynb
+
+
+
+Use scikit Logistic Regression to classify
+
+
+Understand confusion matrix
+
+About the dataset
+
+
+Data pre-processing and selection
+
+
+Modeling (Logistic Regression with Scikit-learn)
+
+
+Evaluation
+
+
+
+## 6.  Support Vector Machine
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/SVM-cancer-py.ipynb
+
+
+Use scikit-learn to Support Vector Machine to classify
+
+
+Load the Cancer data
+
+
+Modeling
+
+
+Evaluation
+
+
+
+## 7.
+## 8.
+## 9.
+## 10.
+## 11.
+## 12.
 ## 1.
 ## 1.
 ## 1.
