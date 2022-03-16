@@ -188,14 +188,39 @@ Use DBSCAN to do Density based clustering
 
 Use Matplotlib to plot clusters
 
-## 10.
-## 11.
-## 12.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
-## 1.
+## 10.  Content-based Recommendation Engines
+
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Content-Based-movies.ipynb
+
+Create a recommendation system using Content Based filtering
+
+
+Acquiring the Data
+
+
+Preprocessing
+
+
+Content-Based Filtering
+
+
+
+## 11.  Collaborative Filtering
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Collaborative-Filtering.ipynb
+
+Acquiring the Data
+
+
+Preprocessing
+
+
+Collaborative Filtering
+
+
+Create recommendation system based on collaborative filtering
+
+
+
+
