@@ -121,9 +121,53 @@ Evaluation
 
 
 
-## 7.
-## 8.
-## 9.
+## 7. k-Means Clustering
+
+
+## 8. Hierarchical Clustering
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Hierarchical-Cars_new.ipynb
+
+Use scikit-learn to do Hierarchical clustering
+
+
+Create dendograms to visualize the clustering
+
+
+
+Hierarchical Clustering - Agglomerative
+
+
+Generating Random Data
+
+
+Agglomerative Clustering
+
+
+Dendrogram Associated for the Agglomerative Hierarchical Clustering
+
+
+Clustering on the Vehicle Dataset
+
+
+Data Cleaning
+
+
+Clustering Using Scipy
+
+
+Clustering using scikit-learn
+
+
+## 9. Density-based Clustering 
+
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/DBSCN.ipynb
+
+Use DBSCAN to do Density based clustering
+
+
+Use Matplotlib to plot clusters
+
 ## 10.
 ## 11.
 ## 12.
