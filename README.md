@@ -123,6 +123,26 @@ Evaluation
 
 ## 7. k-Means Clustering
 
+https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/-K-Means-Customer_new.ipynb
+
+k-means on a random generated dataset
+
+
+Using k-means for customer segmentation
+
+k-Means on a randomly generated dataset
+
+
+Setting up K-Means
+
+
+Creating the Visual Plot
+
+
+Customer Segmentation with K-Means
+Pre-processing
+Modeling
+Insights
 
 ## 8. Hierarchical Clustering
 
