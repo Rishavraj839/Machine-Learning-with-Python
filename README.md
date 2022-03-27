@@ -44,7 +44,7 @@ Use non-linear regression model in Python
 
 ## 3. K-Nearest Neighbours (KNN)
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/K-Nearest-neighbors.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/K-Nearest-neighbors_tele.ipynb
 
 Use K Nearest neighbors to classify data
 
