@@ -80,8 +80,7 @@ Visualization
 
 ## 5. Logistic Regression
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Logistic-Reg-churn.ipynb
-
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Logistic-Reg-churn.ipynb
 
 
 Use scikit Logistic Regression to classify
