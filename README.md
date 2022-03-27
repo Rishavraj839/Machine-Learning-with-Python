@@ -51,8 +51,7 @@ Use K Nearest neighbors to classify data
 
 ## 4.  Decision Trees 
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/-Decision-Trees-drug.ipynb
-
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/-Decision-Trees-drug.ipynb
 
 Develop a classification model using Decision Tree Algorithm
 
