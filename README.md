@@ -103,8 +103,7 @@ Evaluation
 
 ## 6.  Support Vector Machine
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/SVM-cancer-py.ipynb
-
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/SVM-cancer-py.ipynb
 
 Use scikit-learn to Support Vector Machine to classify
 
