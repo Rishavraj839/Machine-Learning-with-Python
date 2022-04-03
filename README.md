@@ -6,8 +6,9 @@
 
   ### SIMPLE LINEAR REGRESSION
   
-  https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Simple-Linear-Regression-Co2-py.ipynb
-  
+  https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Simple-Linear-Regression-Co2-py.ipynb
+
+
   Use scikit-learn to implement simple Linear Regression
   
   
