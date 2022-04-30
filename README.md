@@ -123,6 +123,8 @@ Evaluation
 
 https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/-K-Means-Customer_new.ipynb
 
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/-K-Means-Customer_new.ipynb
+
 k-means on a random generated dataset
 
 
