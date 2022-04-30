@@ -121,7 +121,6 @@ Evaluation
 
 ## 7. k-Means Clustering
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/-K-Means-Customer_new.ipynb
 
 https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/-K-Means-Customer_new.ipynb
 
@@ -146,7 +145,7 @@ Insights
 
 ## 8. Hierarchical Clustering
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Hierarchical-Cars_new.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Hierarchical-Cars_new.ipynb
 
 Use scikit-learn to do Hierarchical clustering
 
