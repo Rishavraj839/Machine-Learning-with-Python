@@ -16,7 +16,7 @@ Create a model, train it, test it and use the model
  
   ### MULTIPLE LINEAR REGRESSION
 
-  https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Mulitple-Linear-Regression.ipynb
+  https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Mulitple-Linear-Regression.ipynb
 
 Use scikit-learn to implement Multiple Linear Regression
 
@@ -28,7 +28,7 @@ Create a model, train it, test it and use the model
 
   ### POLYNOMIAL REGRESSION
   
-  https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Polynomial-Regression.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Polynomial-Regression.ipynb
   
 Use scikit-learn to implement Polynomial Regression
 
@@ -37,7 +37,7 @@ Create a model, train it, test it and use the model
 
  ### NON LINEAR REGRESSION
  
- https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/NoneLinearRegression.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/NoneLinearRegression.ipynb
 
 Differentiate between linear and non-linear regression
  
@@ -180,7 +180,7 @@ Clustering using scikit-learn
 
 ## 9. Density-based Clustering 
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/DBSCN.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/DBSCN.ipynb
 
 Use DBSCAN to do Density based clustering
 
@@ -190,7 +190,7 @@ Use Matplotlib to plot clusters
 ## 10.  Content-based Recommendation Engines
 
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Content-Based-movies.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Content-Based-movies.ipynb
 
 Create a recommendation system using Content Based filtering
 
@@ -207,7 +207,7 @@ Content-Based Filtering
 
 ## 11.  Collaborative Filtering
 
-https://github.com/Rishavraj839/Machine-Learning-with-Python/blob/main/Collaborative-Filtering.ipynb
+https://nbviewer.org/github/Rishavraj839/Machine-Learning-with-Python/blob/main/Collaborative-Filtering.ipynb
 
 Acquiring the Data
 
